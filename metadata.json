@@ -1,0 +1,6 @@
+{
+  "name": "La Cava del Corte",
+  "description": "Carnicería gourmet especializada en carnes premium, hamburguesas artesanales, embutidos y productos importados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
